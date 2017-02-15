@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/MVVM_Android-CleanArchitecture/data/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="b11b928370c93b826e11d08d0d236632c0a94613">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-27ca171b99a66e5659569ccd5b39fe3492465849.jar" />
+    </item>
+    <item
+        jar="/home/borney/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.0.14/898f9ab61e2a23afd615f0b0389478bec86f49f9/rxjava-1.0.14.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="898f9ab61e2a23afd615f0b0389478bec86f49f9">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/rxjava-1.0.14-bceb87db4c73969435f1e2049e987ce0f0c16c42.jar" />
+    </item>
+    <item
+        jar="/home/borney/.gradle/caches/modules-2/files-2.1/com.android.databinding/baseLibrary/1.0-rc1/3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b/baseLibrary-1.0-rc1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="3ff7c148dedcb5bb8e24d39292c7fdf4f92f1c1b">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/baseLibrary-1.0-rc1-3fff6d039310f8e88985bcaed3d61364ce469f9d.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4356e230a981d1bbf047d848b91bc0d9b7c5bacc">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-6fe98b67b38c47587c57b584e3800965e1b8cab9.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/MVVM_Android-CleanArchitecture/domain/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="f6ec1ab3cd973b4f810ff0ff89e04eb155627ffb">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-80461ff9cd1f2b501edebe4edfe506d40a3554a3.jar" />
+    </item>
+    <item
+        jar="/home/borney/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.6.0/98476622f10715998eacf9240d6b479f12c66143/okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/okio-1.6.0-d84c1718adb6edaaa72e0d7d0a363644e46d8201.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/io.reactivex/rxandroid/1.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa81bfe8c5cc88c2472ca936ae71f0c3dd1766df">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-a2741358be11bc99a57f2445cc4cc84190d2d9ba.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-91f2100feba53f91393272ad7b0a64e1aa369a5e.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/opt/android-sdk-linux/extras/android/m2repository/com/android/databinding/adapters/1.0-rc1/adapters-1.0-rc1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8a82ed058e9e709740dd89c88e1be77196a71eee">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/adapters-1.0-rc1-e965387ee96ea73e3d532d97c97a1f6a40cee3f0.jar" />
+    </item>
+    <item
+        jar="/home/borney/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.5.0/4de2b4ed3445c37ec1720a7d214712e845a24636/okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/okhttp-2.5.0-b269b873cb3079d45da201fa2dba0a275f694bb3.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/com.android.databinding/library/1.0-rc1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="8343ce741100717e95bd5c4ad7baa4fd31b73f1b">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-000c4737c7758a7f54c9638ad306b19d60f57e1c.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/opt/android-sdk-linux/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-d81c656d58ffe3d99d1a3b8ea22b4fd0bb165b89.jar" />
+    </item>
+    <item
+        jar="/home/borney/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3/5fc52c41ef0239d1093a1eb7c3697036183677ce/gson-2.3.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="5fc52c41ef0239d1093a1eb7c3697036183677ce">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/gson-2.3-1bc1a2b2a5bdd47d70513106d74e6dba70c8429e.jar" />
+    </item>
+    <item
+        jar="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/home/borney/data/work/CleanArchitecture_Android/MVVM_Android-CleanArchitecture/presentation/build/intermediates/pre-dexed/debug/classes-306cb6bc4f9b6e887e4b8aea8a6bf9870935da0c.jar" />
+    </item>
+
+</items>
