@@ -16,6 +16,21 @@ public class CharSet {
         }
 
         printChar();
+
+        printMa();
+    }
+
+    private static void printMa() {
+        char a = 'A';
+        char b = '马';
+        char c = 39532;//unicode 编号值
+        char d = 0x9a6c; //16进制常量
+        char e = '\u9a6c';//unicode 字符形式
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        System.out.println("c = " + c);
+        System.out.println("d = " + d);
+        System.out.println("e = " + e);
     }
 
     public static void recover(String str)
